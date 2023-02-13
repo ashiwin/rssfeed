@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - England]]></title>
+        <description><![CDATA[BBC News - England]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - England</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 16 Jan 2023 15:25:13 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Met Police officer David Carrick admits to being serial rapist]]></title>
+            <description><![CDATA[David Carrick admits 49 offences against 12 women, including multiple rapes, over two decades.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64289461?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64289461</guid>
+            <pubDate>Mon, 16 Jan 2023 15:23:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brixton crush: O2 Academy to remain closed, council rules]]></title>
+            <description><![CDATA[Two people died and several were injured following a crowd surge during a gig in December.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-64293671?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-64293671</guid>
+            <pubDate>Mon, 16 Jan 2023 14:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beth Matthews: Blogger bought substance from Russia, inquest hears]]></title>
+            <description><![CDATA[Beth Matthews, 26, ordered a poisonous substance and ingested it while at a mental health unit.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-64293817?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-64293817</guid>
+            <pubDate>Mon, 16 Jan 2023 14:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK weather: Snow and ice warnings as cold snap set to continue]]></title>
+            <description><![CDATA[A widespread frost is expected overnight, which could see temperatures drop as low as -4C.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-64284255?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-64284255</guid>
+            <pubDate>Mon, 16 Jan 2023 11:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elle Edwards: Man charged with murder appears in court]]></title>
+            <description><![CDATA[Connor Chapman is charged with killing the 26-year-old beautician at a pub in Merseyside.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-64288567?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-64288567</guid>
+            <pubDate>Mon, 16 Jan 2023 15:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norwich City fan died an hour before 9th birthday]]></title>
+            <description><![CDATA[Amber Sheehy, who was diagnosed with terminal cancer in April, dies "with dignity", her family says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-64288703?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-64288703</guid>
+            <pubDate>Mon, 16 Jan 2023 10:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transgender people lose NHS waiting times High Court case]]></title>
+            <description><![CDATA[The High Court rules the waiting times faced by four transgender people for treatment were lawful.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-64288386?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-64288386</guid>
+            <pubDate>Mon, 16 Jan 2023 15:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whitehaven coal mine: Two legal challenges lodged]]></title>
+            <description><![CDATA[A Cumbrian campaign group and Friends of the Earth call for approval for the Whitehaven scheme to be quashed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-64288640?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-64288640</guid>
+            <pubDate>Mon, 16 Jan 2023 14:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cody Fisher: Third man in court charged with nightclub murder]]></title>
+            <description><![CDATA[Reegan Anderson appears before Birmingham Crown Court accused of killing Cody Fisher.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-64291725?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-64291725</guid>
+            <pubDate>Mon, 16 Jan 2023 12:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pub flooded as river burst its banks]]></title>
+            <description><![CDATA[The Old Lock and Weir, in Bristol, is flooded after the River Avon overflowed during heavy rain.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-64289196?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-64289196</guid>
+            <pubDate>Mon, 16 Jan 2023 12:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stoke-on-Trent man jailed for killing neighbour in phone row]]></title>
+            <description><![CDATA[Florin-Dumitru Ciurar was found dead at an address in Stoke-on-Trent in August.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-64284951?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-64284951</guid>
+            <pubDate>Mon, 16 Jan 2023 10:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five-year-old joins police bike ride along]]></title>
+            <description><![CDATA[Harry rides along police on a motorbike he got from Santa for Christmas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-64291484?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-64291484</guid>
+            <pubDate>Mon, 16 Jan 2023 11:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aurora hunter treated by coastal lights display]]></title>
+            <link>https://www.bbc.co.uk/news/articles/ckdjzlq0eppo?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdjzlq0eppo</guid>
+            <pubDate>Mon, 16 Jan 2023 12:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cornwall oystermen battle to save way of life]]></title>
+            <description><![CDATA[They say their traditional way of life on the Fal Estuary was knocked sideways by post-Brexit rule changes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-64264531?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cornwall-64264531</guid>
+            <pubDate>Mon, 16 Jan 2023 07:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West End actress fights to change cat hit-and-run law]]></title>
+            <description><![CDATA[People are not currently required to tell police if they hit a cat while driving.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-64270407?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-64270407</guid>
+            <pubDate>Mon, 16 Jan 2023 06:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clacton: The real 'Phoenix Nights' club fights for survival]]></title>
+            <description><![CDATA[A working men's club at risk of closure a year ago is fighting back by attracting younger members.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-64265005?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-64265005</guid>
+            <pubDate>Mon, 16 Jan 2023 06:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cost of living: The father and son who write poetry for tough times]]></title>
+            <description><![CDATA[Winston "Mayor" Lindsay and his son, Zayden, perform poetry about socio-economic issues.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-64237224?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-64237224</guid>
+            <pubDate>Sun, 15 Jan 2023 00:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frodsham rewilding: What happens when a golf course returns to nature?]]></title>
+            <description><![CDATA[A former course is home to badgers and foxes after returning to nature as part of a rewilding scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-64281602?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-64281602</guid>
+            <pubDate>Sun, 15 Jan 2023 10:44:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England Six Nations squad: Billy Vunipola, Jonny May & Jack Nowell left out by Steve Borthwick]]></title>
+            <description><![CDATA[Number eight Billy Vunipola has been left out of new head coach Steve Borthwick's 36-man England squad for the Six Nations.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/64287374?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/64287374</guid>
+            <pubDate>Mon, 16 Jan 2023 11:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian Open: Emma Raducanu and Cameron Norrie through in Melbourne]]></title>
+            <description><![CDATA[Britain's Emma Raducanu makes a positive return to court after an ankle injury, while Cameron Norrie also moves into the Australian Open second round.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/64280237?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/64280237</guid>
+            <pubDate>Mon, 16 Jan 2023 10:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alan Shearer column: Why Arsenal are in control of the Premier League title race]]></title>
+            <description><![CDATA[Match of the Day pundit Alan Shearer says Arsenal will take some shifting from the top of the Premier League but Manchester City and Manchester United are still in the title race.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/64283801?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/64283801</guid>
+            <pubDate>Mon, 16 Jan 2023 06:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Masters snooker final 2023: Judd Trump beats Mark Williams to claim second title]]></title>
+            <description><![CDATA[Judd Trump says his Masters win over Mark Williams is his "best ever" after claiming the title for a second time.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/64283164?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/snooker/64283164</guid>
+            <pubDate>Mon, 16 Jan 2023 07:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian Open 2023: Jack Draper loses to Rafael Nadal at Melbourne Park]]></title>
+            <description><![CDATA[British rising star Jack Draper tests Spanish great Rafael Nadal before more physical issues cost him in a four-set defeat at the Australian Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/64286561?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/64286561</guid>
+            <pubDate>Mon, 16 Jan 2023 10:30:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
